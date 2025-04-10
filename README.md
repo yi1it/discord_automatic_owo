@@ -1,4 +1,4 @@
-tr:
+TR:
 
 **OwO Hunt Bot - README**
 
@@ -14,8 +14,8 @@ tr:
 
 -Antivirüs programları bazen bu dosyayı yanlışlıkla zararlı olarak işaret edebilir.
  Program güvenlidir.
-
- en:
+ 
+EN:
 
 **OwO Hunt Bot - README**
 
