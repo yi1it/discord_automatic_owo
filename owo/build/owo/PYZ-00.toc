@@ -1,0 +1,957 @@
+('C:\\Users\\mühendislik fakültes\\Documents\\owo\\build\\owo\\PYZ-00.pyz',
+ [('os',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\os.py',
+   'PYMODULE'),
+  ('subprocess',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\subprocess.py',
+   'PYMODULE'),
+  ('dummy_threading',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\dummy_threading.py',
+   'PYMODULE'),
+  ('_dummy_thread',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\_dummy_thread.py',
+   'PYMODULE'),
+  ('selectors',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\selectors.py',
+   'PYMODULE'),
+  ('signal',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\signal.py',
+   'PYMODULE'),
+  ('ntpath',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\ntpath.py',
+   'PYMODULE'),
+  ('string',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\string.py',
+   'PYMODULE'),
+  ('genericpath',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\genericpath.py',
+   'PYMODULE'),
+  ('posixpath',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\posixpath.py',
+   'PYMODULE'),
+  ('stat',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\stat.py',
+   'PYMODULE'),
+  ('inspect',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\inspect.py',
+   'PYMODULE'),
+  ('importlib',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\importlib\\__init__.py',
+   'PYMODULE'),
+  ('importlib.abc',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\importlib\\abc.py',
+   'PYMODULE'),
+  ('importlib._bootstrap_external',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\importlib\\_bootstrap_external.py',
+   'PYMODULE'),
+  ('importlib._bootstrap',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\importlib\\_bootstrap.py',
+   'PYMODULE'),
+  ('argparse',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\argparse.py',
+   'PYMODULE'),
+  ('gettext',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\gettext.py',
+   'PYMODULE'),
+  ('struct',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\struct.py',
+   'PYMODULE'),
+  ('textwrap',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\textwrap.py',
+   'PYMODULE'),
+  ('copy',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\copy.py',
+   'PYMODULE'),
+  ('token',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\token.py',
+   'PYMODULE'),
+  ('importlib.machinery',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\importlib\\machinery.py',
+   'PYMODULE'),
+  ('dis',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\dis.py',
+   'PYMODULE'),
+  ('opcode',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\opcode.py',
+   'PYMODULE'),
+  ('ast',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\ast.py',
+   'PYMODULE'),
+  ('pkgutil',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\pkgutil.py',
+   'PYMODULE'),
+  ('importlib.util',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\importlib\\util.py',
+   'PYMODULE'),
+  ('contextlib',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\contextlib.py',
+   'PYMODULE'),
+  ('tracemalloc',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\tracemalloc.py',
+   'PYMODULE'),
+  ('pickle',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\pickle.py',
+   'PYMODULE'),
+  ('pprint',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\pprint.py',
+   'PYMODULE'),
+  ('doctest',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\doctest.py',
+   'PYMODULE'),
+  ('unittest',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\unittest\\__init__.py',
+   'PYMODULE'),
+  ('unittest.signals',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\unittest\\signals.py',
+   'PYMODULE'),
+  ('unittest.main',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\unittest\\main.py',
+   'PYMODULE'),
+  ('unittest.runner',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\unittest\\runner.py',
+   'PYMODULE'),
+  ('unittest.loader',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\unittest\\loader.py',
+   'PYMODULE'),
+  ('unittest.suite',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\unittest\\suite.py',
+   'PYMODULE'),
+  ('unittest.case',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\unittest\\case.py',
+   'PYMODULE'),
+  ('logging',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\logging\\__init__.py',
+   'PYMODULE'),
+  ('unittest.result',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\unittest\\result.py',
+   'PYMODULE'),
+  ('unittest.util',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\unittest\\util.py',
+   'PYMODULE'),
+  ('pdb',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\pdb.py',
+   'PYMODULE'),
+  ('getopt',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\getopt.py',
+   'PYMODULE'),
+  ('pydoc',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\pydoc.py',
+   'PYMODULE'),
+  ('webbrowser',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\webbrowser.py',
+   'PYMODULE'),
+  ('socket',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\socket.py',
+   'PYMODULE'),
+  ('shutil',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\shutil.py',
+   'PYMODULE'),
+  ('zipfile',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\zipfile.py',
+   'PYMODULE'),
+  ('py_compile',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\py_compile.py',
+   'PYMODULE'),
+  ('tarfile',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\tarfile.py',
+   'PYMODULE'),
+  ('gzip',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\gzip.py',
+   'PYMODULE'),
+  ('_compression',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\_compression.py',
+   'PYMODULE'),
+  ('lzma',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\lzma.py',
+   'PYMODULE'),
+  ('bz2',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\bz2.py',
+   'PYMODULE'),
+  ('email.message',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\email\\message.py',
+   'PYMODULE'),
+  ('email.policy',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\email\\policy.py',
+   'PYMODULE'),
+  ('email.contentmanager',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\email\\contentmanager.py',
+   'PYMODULE'),
+  ('email.quoprimime',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\email\\quoprimime.py',
+   'PYMODULE'),
+  ('email.headerregistry',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\email\\headerregistry.py',
+   'PYMODULE'),
+  ('email._header_value_parser',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\email\\_header_value_parser.py',
+   'PYMODULE'),
+  ('urllib',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\urllib\\__init__.py',
+   'PYMODULE'),
+  ('email.iterators',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\email\\iterators.py',
+   'PYMODULE'),
+  ('email.generator',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\email\\generator.py',
+   'PYMODULE'),
+  ('email._encoded_words',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\email\\_encoded_words.py',
+   'PYMODULE'),
+  ('base64',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\base64.py',
+   'PYMODULE'),
+  ('email.charset',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\email\\charset.py',
+   'PYMODULE'),
+  ('email.encoders',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\email\\encoders.py',
+   'PYMODULE'),
+  ('email.base64mime',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\email\\base64mime.py',
+   'PYMODULE'),
+  ('email._policybase',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\email\\_policybase.py',
+   'PYMODULE'),
+  ('email.header',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\email\\header.py',
+   'PYMODULE'),
+  ('email.errors',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\email\\errors.py',
+   'PYMODULE'),
+  ('email.utils',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\email\\utils.py',
+   'PYMODULE'),
+  ('email._parseaddr',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\email\\_parseaddr.py',
+   'PYMODULE'),
+  ('calendar',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\calendar.py',
+   'PYMODULE'),
+  ('datetime',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\datetime.py',
+   'PYMODULE'),
+  ('_strptime',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\_strptime.py',
+   'PYMODULE'),
+  ('email',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\email\\__init__.py',
+   'PYMODULE'),
+  ('email.parser',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\email\\parser.py',
+   'PYMODULE'),
+  ('email.feedparser',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\email\\feedparser.py',
+   'PYMODULE'),
+  ('quopri',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\quopri.py',
+   'PYMODULE'),
+  ('uu',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\uu.py',
+   'PYMODULE'),
+  ('optparse',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\optparse.py',
+   'PYMODULE'),
+  ('http.server',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\http\\server.py',
+   'PYMODULE'),
+  ('http',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\http\\__init__.py',
+   'PYMODULE'),
+  ('socketserver',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\socketserver.py',
+   'PYMODULE'),
+  ('mimetypes',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\mimetypes.py',
+   'PYMODULE'),
+  ('http.client',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\http\\client.py',
+   'PYMODULE'),
+  ('ssl',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\ssl.py',
+   'PYMODULE'),
+  ('ipaddress',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\ipaddress.py',
+   'PYMODULE'),
+  ('html',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\html\\__init__.py',
+   'PYMODULE'),
+  ('html.entities',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\html\\entities.py',
+   'PYMODULE'),
+  ('pydoc_data.topics',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\pydoc_data\\topics.py',
+   'PYMODULE'),
+  ('pydoc_data',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\pydoc_data\\__init__.py',
+   'PYMODULE'),
+  ('tty',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\tty.py',
+   'PYMODULE'),
+  ('tempfile',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\tempfile.py',
+   'PYMODULE'),
+  ('urllib.parse',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\urllib\\parse.py',
+   'PYMODULE'),
+  ('platform',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\platform.py',
+   'PYMODULE'),
+  ('plistlib',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\plistlib.py',
+   'PYMODULE'),
+  ('xml.parsers.expat',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\xml\\parsers\\expat.py',
+   'PYMODULE'),
+  ('xml.parsers',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\xml\\parsers\\__init__.py',
+   'PYMODULE'),
+  ('xml',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\xml\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax.expatreader',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\xml\\sax\\expatreader.py',
+   'PYMODULE'),
+  ('xml.sax.saxutils',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\xml\\sax\\saxutils.py',
+   'PYMODULE'),
+  ('urllib.request',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\urllib\\request.py',
+   'PYMODULE'),
+  ('getpass',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\getpass.py',
+   'PYMODULE'),
+  ('nturl2path',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\nturl2path.py',
+   'PYMODULE'),
+  ('ftplib',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\ftplib.py',
+   'PYMODULE'),
+  ('netrc',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\netrc.py',
+   'PYMODULE'),
+  ('http.cookiejar',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\http\\cookiejar.py',
+   'PYMODULE'),
+  ('urllib.response',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\urllib\\response.py',
+   'PYMODULE'),
+  ('urllib.error',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\urllib\\error.py',
+   'PYMODULE'),
+  ('hashlib',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\hashlib.py',
+   'PYMODULE'),
+  ('bisect',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\bisect.py',
+   'PYMODULE'),
+  ('xml.sax',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\xml\\sax\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax.handler',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\xml\\sax\\handler.py',
+   'PYMODULE'),
+  ('xml.sax._exceptions',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\xml\\sax\\_exceptions.py',
+   'PYMODULE'),
+  ('xml.sax.xmlreader',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\xml\\sax\\xmlreader.py',
+   'PYMODULE'),
+  ('shlex',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\shlex.py',
+   'PYMODULE'),
+  ('glob',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\glob.py',
+   'PYMODULE'),
+  ('code',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\code.py',
+   'PYMODULE'),
+  ('codeop',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\codeop.py',
+   'PYMODULE'),
+  ('bdb',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\bdb.py',
+   'PYMODULE'),
+  ('cmd',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\cmd.py',
+   'PYMODULE'),
+  ('difflib',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\difflib.py',
+   'PYMODULE'),
+  ('__future__',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\__future__.py',
+   'PYMODULE'),
+  ('_compat_pickle',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\_compat_pickle.py',
+   'PYMODULE'),
+  ('fnmatch',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\fnmatch.py',
+   'PYMODULE'),
+  ('stringprep',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\stringprep.py',
+   'PYMODULE'),
+  ('threading',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\threading.py',
+   'PYMODULE'),
+  ('_threading_local',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\_threading_local.py',
+   'PYMODULE'),
+  ('tkinter',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\tkinter\\__init__.py',
+   'PYMODULE'),
+  ('tkinter.ttk',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\tkinter\\ttk.py',
+   'PYMODULE'),
+  ('tkinter.constants',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\tkinter\\constants.py',
+   'PYMODULE'),
+  ('random',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\random.py',
+   'PYMODULE'),
+  ('pyautogui',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\pyautogui\\__init__.py',
+   'PYMODULE'),
+  ('pyautogui._pyautogui_x11',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\pyautogui\\_pyautogui_x11.py',
+   'PYMODULE'),
+  ('pyautogui._pyautogui_win',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\pyautogui\\_pyautogui_win.py',
+   'PYMODULE'),
+  ('ctypes.wintypes',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\ctypes\\wintypes.py',
+   'PYMODULE'),
+  ('ctypes',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\ctypes\\__init__.py',
+   'PYMODULE'),
+  ('ctypes.util',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\ctypes\\util.py',
+   'PYMODULE'),
+  ('ctypes.macholib.dyld',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\ctypes\\macholib\\dyld.py',
+   'PYMODULE'),
+  ('ctypes.macholib',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\ctypes\\macholib\\__init__.py',
+   'PYMODULE'),
+  ('ctypes.macholib.dylib',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\ctypes\\macholib\\dylib.py',
+   'PYMODULE'),
+  ('ctypes.macholib.framework',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\ctypes\\macholib\\framework.py',
+   'PYMODULE'),
+  ('ctypes._endian',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\ctypes\\_endian.py',
+   'PYMODULE'),
+  ('pyautogui._pyautogui_osx',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\pyautogui\\_pyautogui_osx.py',
+   'PYMODULE'),
+  ('pygetwindow',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\pygetwindow\\__init__.py',
+   'PYMODULE'),
+  ('pygetwindow._pygetwindow_win',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\pygetwindow\\_pygetwindow_win.py',
+   'PYMODULE'),
+  ('pygetwindow._pygetwindow_macos',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\pygetwindow\\_pygetwindow_macos.py',
+   'PYMODULE'),
+  ('pyrect',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\pyrect\\__init__.py',
+   'PYMODULE'),
+  ('mouseinfo',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\mouseinfo\\__init__.py',
+   'PYMODULE'),
+  ('PIL.ImageGrab',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\PIL\\ImageGrab.py',
+   'PYMODULE'),
+  ('PIL.BmpImagePlugin',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\PIL\\BmpImagePlugin.py',
+   'PYMODULE'),
+  ('PIL._binary',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\PIL\\_binary.py',
+   'PYMODULE'),
+  ('PIL.ImagePalette',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\PIL\\ImagePalette.py',
+   'PYMODULE'),
+  ('PIL.PaletteFile',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\PIL\\PaletteFile.py',
+   'PYMODULE'),
+  ('PIL.ImageColor',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\PIL\\ImageColor.py',
+   'PYMODULE'),
+  ('colorsys',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\colorsys.py',
+   'PYMODULE'),
+  ('PIL.GimpPaletteFile',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\PIL\\GimpPaletteFile.py',
+   'PYMODULE'),
+  ('PIL.GimpGradientFile',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\PIL\\GimpGradientFile.py',
+   'PYMODULE'),
+  ('PIL.ImageFile',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\PIL\\ImageFile.py',
+   'PYMODULE'),
+  ('PIL._util',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\PIL\\_util.py',
+   'PYMODULE'),
+  ('pathlib',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\pathlib.py',
+   'PYMODULE'),
+  ('PIL.PngImagePlugin',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\PIL\\PngImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ImageSequence',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\PIL\\ImageSequence.py',
+   'PYMODULE'),
+  ('PIL.ImageChops',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\PIL\\ImageChops.py',
+   'PYMODULE'),
+  ('PIL.Image',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\PIL\\Image.py',
+   'PYMODULE'),
+  ('PIL.BufrStubImagePlugin',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\PIL\\BufrStubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.XpmImagePlugin',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\PIL\\XpmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.CurImagePlugin',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\PIL\\CurImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MspImagePlugin',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\PIL\\MspImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ImtImagePlugin',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\PIL\\ImtImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.TgaImagePlugin',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\PIL\\TgaImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.IcnsImagePlugin',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\PIL\\IcnsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.features',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\PIL\\features.py',
+   'PYMODULE'),
+  ('PIL.FliImagePlugin',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\PIL\\FliImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.XbmImagePlugin',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\PIL\\XbmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MicImagePlugin',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\PIL\\MicImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PcxImagePlugin',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\PIL\\PcxImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FitsStubImagePlugin',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\PIL\\FitsStubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MpoImagePlugin',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\PIL\\MpoImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.IptcImagePlugin',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\PIL\\IptcImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PdfImagePlugin',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\PIL\\PdfImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PdfParser',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\PIL\\PdfParser.py',
+   'PYMODULE'),
+  ('PIL.EpsImagePlugin',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\PIL\\EpsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.SunImagePlugin',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\PIL\\SunImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.Jpeg2KImagePlugin',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\PIL\\Jpeg2KImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.DcxImagePlugin',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\PIL\\DcxImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PalmImagePlugin',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\PIL\\PalmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MpegImagePlugin',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\PIL\\MpegImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PixarImagePlugin',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\PIL\\PixarImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FtexImagePlugin',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\PIL\\FtexImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.McIdasImagePlugin',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\PIL\\McIdasImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PsdImagePlugin',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\PIL\\PsdImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.SgiImagePlugin',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\PIL\\SgiImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ImImagePlugin',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\PIL\\ImImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.BlpImagePlugin',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\PIL\\BlpImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.GbrImagePlugin',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\PIL\\GbrImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.WmfImagePlugin',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\PIL\\WmfImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.WebPImagePlugin',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\PIL\\WebPImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.GribStubImagePlugin',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\PIL\\GribStubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.IcoImagePlugin',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\PIL\\IcoImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.Hdf5StubImagePlugin',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\PIL\\Hdf5StubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FpxImagePlugin',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\PIL\\FpxImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.XVThumbImagePlugin',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\PIL\\XVThumbImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.SpiderImagePlugin',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\PIL\\SpiderImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ImageTk',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\PIL\\ImageTk.py',
+   'PYMODULE'),
+  ('PIL.PcdImagePlugin',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\PIL\\PcdImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.DdsImagePlugin',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\PIL\\DdsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.TiffImagePlugin',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\PIL\\TiffImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ImageOps',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\PIL\\ImageOps.py',
+   'PYMODULE'),
+  ('fractions',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\fractions.py',
+   'PYMODULE'),
+  ('decimal',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\decimal.py',
+   'PYMODULE'),
+  ('_pydecimal',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\_pydecimal.py',
+   'PYMODULE'),
+  ('PIL.ImageShow',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\PIL\\ImageShow.py',
+   'PYMODULE'),
+  ('PIL.ImageQt',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\PIL\\ImageQt.py',
+   'PYMODULE'),
+  ('PIL.ImageFilter',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\PIL\\ImageFilter.py',
+   'PYMODULE'),
+  ('PIL.PyAccess',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\PIL\\PyAccess.py',
+   'PYMODULE'),
+  ('PIL.PpmImagePlugin',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\PIL\\PpmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.JpegImagePlugin',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\PIL\\JpegImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.JpegPresets',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\PIL\\JpegPresets.py',
+   'PYMODULE'),
+  ('PIL.GifImagePlugin',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\PIL\\GifImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.TiffTags',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\PIL\\TiffTags.py',
+   'PYMODULE'),
+  ('PIL.ImageMode',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\PIL\\ImageMode.py',
+   'PYMODULE'),
+  ('numbers',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\numbers.py',
+   'PYMODULE'),
+  ('PIL',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\PIL\\__init__.py',
+   'PYMODULE'),
+  ('PIL.ImageDraw2',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\PIL\\ImageDraw2.py',
+   'PYMODULE'),
+  ('PIL.ImagePath',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\PIL\\ImagePath.py',
+   'PYMODULE'),
+  ('PIL.ImageDraw',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\PIL\\ImageDraw.py',
+   'PYMODULE'),
+  ('PIL.ImageFont',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\PIL\\ImageFont.py',
+   'PYMODULE'),
+  ('PIL._version',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\PIL\\_version.py',
+   'PYMODULE'),
+  ('pyperclip',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\pyperclip\\__init__.py',
+   'PYMODULE'),
+  ('typing',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\typing.py',
+   'PYMODULE'),
+  ('pyscreeze',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\pyscreeze\\__init__.py',
+   'PYMODULE'),
+  ('pymsgbox',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\pymsgbox\\__init__.py',
+   'PYMODULE'),
+  ('pymsgbox._native_win',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\pymsgbox\\_native_win.py',
+   'PYMODULE'),
+  ('pytweening',
+   'c:\\users\\mühendislik '
+   'fakültes\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\pytweening\\__init__.py',
+   'PYMODULE')])
